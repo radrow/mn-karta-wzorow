@@ -23,6 +23,11 @@ brew cask install mactex
 sudo apt-get install texlive-full
 ```
 
+### Arch / Manjaro
+```bash
+sudo pacman -S texlive-most
+```
+
 ## Generowanie plików PDF
 
 ```bash
